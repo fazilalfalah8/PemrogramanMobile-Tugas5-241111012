@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Brand Colors -->
+    <color name="primary">#554181</color> <!-- Premium Deep Purple -->
+    <color name="primary_light">#EEF2FF</color>
+    <color name="secondary">#5BB6BB</color> <!-- Logo Teal -->
+    <color name="tertiary">#FF806E</color> <!-- Logo Coral -->
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface">#1E293B</color> <!-- Slate 800 -->
+    <color name="text_secondary">#64748B</color> <!-- Slate 500 -->
+    <color name="text_hint">#94A3B8</color> <!-- Slate 400 -->
+
+    <color name="background">#F8FAFC</color> <!-- Light Slate -->
+    <color name="surface">#FFFFFF</color>
+    <color name="divider">#F1F5F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+
+    <color name="error_red">#E53935</color>
+    <color name="accent_orange">#FF9800</color>
+
+    <!-- Gradient Palette (Figma-Based) -->
+    <color name="grad_orange">#FF8C00</color>
+    <color name="grad_purple">#9B59B6</color>
+    <color name="grad_blue">#3498DB</color>
+
+    <!-- Legacy compatibility -->
+    <color name="grad_start">#554181</color>
+    <color name="grad_center">#7B1FA2</color>
+    <color name="grad_end">#5BB6BB</color>
+
+    <color name="soft_cream">#FDFCFB</color>
+    <color name="soft_orange">#FFF7ED</color>
+    <color name="soft_teal">#F0FDFA</color>
+    <color name="soft_blue">#EFF6FF</color>
+</resources>
